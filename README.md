@@ -1,2 +1,2 @@
 # standard-evm-audits
-Audit repo for Standard evm codes
+Repostitory to store audits for Standard evm codes
